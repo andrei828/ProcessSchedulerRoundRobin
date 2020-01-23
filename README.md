@@ -1,7 +1,7 @@
 # Process scheduler with weighted users (Round-Robin)
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Build Status](https://img.shields.io/github/repo-size/andrei828/ProcessSchedulerRoundRobin?color=magenta) 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Build Status](https://img.shields.io/github/repo-size/andrei828/ProcessSchedulerRoundRobin?color=magenta) ![Build Status](https://img.shields.io/github/last-commit/andrei828/ProcessSchedulerRoundRobin)
 
 This program enables you to run multiple processes executed by the CPU using the **Round-Robin algorithm**. Currently the repo has pre-loaded an example where a random number of processes are generated. This design uses **Inter Process Communication (IPC)** to schedule the processes on the CPU.
 
