@@ -35,7 +35,7 @@ This program enables you to run multiple processes executed by the CPU using the
     ![Process list](https://github.com/andrei828/ProcessSchedulerRoundRobin/blob/master/images/ProcessList.png)
 
 - ### The processes pending execution in Activity Monitor
-    ![Activity Monitor](https://github.com/andrei828/ProcessSchedulerRoundRobin/blob/master/images/ProcessList.png)
+    ![Activity Monitor](https://github.com/andrei828/ProcessSchedulerRoundRobin/blob/master/images/ActivityMonitor.png)
 
 - ### The Gantt diagram after execution
-    ![Gantt Diagram](https://github.com/andrei828/ProcessSchedulerRoundRobin/blob/master/images/ProcessList.png)
+    ![Gantt Diagram](https://github.com/andrei828/ProcessSchedulerRoundRobin/blob/master/images/GanttDiagram.png)
