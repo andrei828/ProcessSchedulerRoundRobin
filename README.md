@@ -2,7 +2,6 @@
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Build Status](https://img.shields.io/github/repo-size/andrei828/ProcessSchedulerRoundRobin?color=magenta) 
-![Process List](https://github.com/andrei828/ProcessSchedulerRoundRobin/blob/master/images/ProcessList.png)
 
 This program enables you to run multiple processes executed by the CPU using the **Round-Robin algorithm**. Currently the repo has pre-loaded an example where a random number of processes are generated. This design uses **Inter Process Communication (IPC)** to schedule the processes on the CPU.
 
@@ -31,5 +30,12 @@ This program enables you to run multiple processes executed by the CPU using the
 
 > The tasks ran but the dummy processes should be configured in the ```dummy.c``` file.
 
-##### Here is an example of the terminal interface
-![Process list](https://github.com/andrei828/ProcessSchedulerRoundRobin/blob/master/images/ProcessList.png)
+# Here is an example of the terminal interface
+- ### The list of processes generated
+    ![Process list](https://github.com/andrei828/ProcessSchedulerRoundRobin/blob/master/images/ProcessList.png)
+
+- ### The processes pending execution in Activity Monitor
+    ![Activity Monitor](https://github.com/andrei828/ProcessSchedulerRoundRobin/blob/master/images/ProcessList.png)
+
+- ### The Gantt diagram after execution
+    ![Gantt Diagram](https://github.com/andrei828/ProcessSchedulerRoundRobin/blob/master/images/ProcessList.png)
