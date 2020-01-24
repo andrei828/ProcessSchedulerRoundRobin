@@ -1,0 +1,192 @@
+
+----------------------Round-Robin--------------------
+
+User 0 has been selected
+
+Selected process; burst-time= 24.774050 
+
+Same user after his timeSlice
+No. of processes 3: ->(Proc. num) : burst-time
+(P3591): 16.831427; (P3592): 5.164213; (P3590): 11.395933; 
+
+User 1 has been selected
+
+Selected process; burst-time= 31.508499 
+
+Same user after his timeSlice
+No. of processes 3: ->(Proc. num) : burst-time
+(P3594): 2.714993; (P3595): 30.287474; (P3593): 18.130383; 
+
+User 2 has been selected
+
+Selected process; burst-time= 18.264542 
+
+Same user after his timeSlice
+No. of processes 3: ->(Proc. num) : burst-time
+(P3597): 11.535009; (P3598): 28.290701; (P3596): 4.886425; 
+
+User 3 has been selected
+
+Selected process; burst-time= 27.815407 
+
+Same user after his timeSlice
+No. of processes 1: ->(Proc. num) : burst-time
+(P3599): 14.437290; 
+
+User 4 has been selected
+
+Selected process; burst-time= 1.548685 
+
+
+Selected process; burst-time= 28.152340 
+
+Same user after his timeSlice
+No. of processes 1: ->(Proc. num) : burst-time
+(P3601): 14.774223; 
+
+User 0 has been selected
+
+Selected process; burst-time= 16.831427 
+
+Same user after his timeSlice
+No. of processes 3: ->(Proc. num) : burst-time
+(P3592): 5.164213; (P3590): 11.395933; (P3591): 3.453310; 
+
+User 1 has been selected
+
+Selected process; burst-time= 2.714993 
+
+
+Selected process; burst-time= 30.287474 
+
+Same user after his timeSlice
+No. of processes 2: ->(Proc. num) : burst-time
+(P3593): 18.130383; (P3595): 16.909357; 
+
+User 2 has been selected
+
+Selected process; burst-time= 11.535009 
+
+Same user after his timeSlice
+No. of processes 2: ->(Proc. num) : burst-time
+(P3598): 28.290701; (P3596): 4.886425; 
+
+User 3 has been selected
+
+Selected process; burst-time= 14.437290 
+
+Same user after his timeSlice
+No. of processes 1: ->(Proc. num) : burst-time
+(P3599): 1.059174; 
+
+User 4 has been selected
+
+Selected process; burst-time= 14.774223 
+
+Same user after his timeSlice
+No. of processes 1: ->(Proc. num) : burst-time
+(P3601): 1.396107; 
+
+User 0 has been selected
+
+Selected process; burst-time= 5.164213 
+
+Same user after his timeSlice
+No. of processes 2: ->(Proc. num) : burst-time
+(P3590): 11.395933; (P3591): 3.453310; 
+
+User 1 has been selected
+
+Selected process; burst-time= 18.130383 
+
+Same user after his timeSlice
+No. of processes 2: ->(Proc. num) : burst-time
+(P3595): 16.909357; (P3593): 4.752266; 
+
+User 2 has been selected
+
+Selected process; burst-time= 28.290701 
+
+Same user after his timeSlice
+No. of processes 2: ->(Proc. num) : burst-time
+(P3596): 4.886425; (P3598): 14.912584; 
+
+User 3 has been selected
+
+Selected process; burst-time= 1.059174 
+
+Same user after his timeSlice
+No. of processes 0: ->(Proc. num) : burst-time
+
+User 3 has finished
+
+User 4 has been selected
+
+Selected process; burst-time= 1.396107 
+
+Same user after his timeSlice
+No. of processes 0: ->(Proc. num) : burst-time
+
+User 4 has finished
+
+User 0 has been selected
+
+Selected process; burst-time= 11.395933 
+
+Same user after his timeSlice
+No. of processes 1: ->(Proc. num) : burst-time
+(P3591): 3.453310; 
+
+User 1 has been selected
+
+Selected process; burst-time= 16.909357 
+
+Same user after his timeSlice
+No. of processes 2: ->(Proc. num) : burst-time
+(P3593): 4.752266; (P3595): 3.531240; 
+
+User 2 has been selected
+
+Selected process; burst-time= 4.886425 
+
+Same user after his timeSlice
+No. of processes 1: ->(Proc. num) : burst-time
+(P3598): 14.912584; 
+
+User 0 has been selected
+
+Selected process; burst-time= 3.453310 
+
+Same user after his timeSlice
+No. of processes 0: ->(Proc. num) : burst-time
+
+User 0 has finished
+
+User 1 has been selected
+
+Selected process; burst-time= 4.752266 
+
+
+Selected process; burst-time= 3.531240 
+
+Same user after his timeSlice
+No. of processes 0: ->(Proc. num) : burst-time
+
+User 1 has finished
+
+User 2 has been selected
+
+Selected process; burst-time= 14.912584 
+
+Same user after his timeSlice
+No. of processes 1: ->(Proc. num) : burst-time
+(P3598): 1.534468; 
+
+User 2 has been selected
+
+Selected process; burst-time= 1.534468 
+
+Same user after his timeSlice
+No. of processes 0: ->(Proc. num) : burst-time
+
+User 2 has finished
