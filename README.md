@@ -23,9 +23,9 @@ This program enables you to run multiple processes executed by the CPU using the
     ```
 
 ##### The repo contains:
-  - A ```dummy.c``` file that should be used however the user prefers.
-  - A ```main.c``` file that has the core functions and data structures for the program. 
   - A ```graphic.c``` file that deals with the terminal interface.
+  - A ```dummy.c``` file that should be used however the user prefers.
+  - A ```dependencies.c``` file that has the core functions and data structures for the program. 
 
 
 > The tasks ran but the dummy processes should be configured in the ```dummy.c``` file.
